@@ -29,5 +29,14 @@
     "mongoose": "^5.12.9",
     "react-highlight.js": "^1.0.7",
     "react-router-dom": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeSweats/CodeHardCache.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/codeSweats/CodeHardCache/issues"
+  },
+  "homepage": "https://github.com/codeSweats/CodeHardCache#readme"
 }
